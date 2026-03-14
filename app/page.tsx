@@ -76,7 +76,7 @@ export default function Portfolio() {
       <section id="contact" className="bg-white py-16 px-6">
         <div className="max-w-5xl mx-auto">
           <h3 className="text-2xl font-semibold mb-4">Contact</h3>
-          <p>Email: your.email@example.com</p>
+          <p>Email: mahendran.visvanathan@gmail.com</p>
           <p>LinkedIn: https://www.linkedin.com/in/mahendran-visvanathan-1898bb27/</p>
         </div>
       </section>
